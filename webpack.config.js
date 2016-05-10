@@ -62,6 +62,11 @@ module.exports = {
     }),
     new webpack.DefinePlugin({
       mode: JSON.stringify(mode)
+    }),
+    new webpack.ProvidePlugin({
+    $: "jquery",
+    jQuery: "jquery",
+    "window.jQuery": "jquery"
     })
     /*{
       apply: function(compiler){

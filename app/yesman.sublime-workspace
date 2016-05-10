@@ -4,158 +4,454 @@
 		"selected_items":
 		[
 			[
-				"app",
-				"appView"
-			],
-			[
-				"a",
-				"appView"
-			],
-			[
-				"marg",
-				"margin-top	styl"
-			],
-			[
-				"mar",
+				"ma",
 				"margin-bottom	styl"
 			],
 			[
+				"mar",
+				"margin-left	styl"
+			],
+			[
 				"back",
-				"background-size	styl"
+				"background-image	styl"
 			],
 			[
-				"ba",
-				"background	styl"
+				"m",
+				"margin-left	styl"
 			],
 			[
-				"h",
-				"homeRuslan"
+				"pa",
+				"padding-left	styl"
 			],
 			[
-				"pr",
-				"price"
-			],
-			[
-				"ho",
-				"home-ruslan"
-			],
-			[
-				"cur",
-				"cursor	styl"
+				"margi",
+				"margin-top	styl"
 			],
 			[
 				"max",
 				"max-width	styl"
 			],
 			[
+				"margin",
+				"margin	styl"
+			],
+			[
+				"heade",
+				"headerWidth"
+			],
+			[
 				"pad",
-				"padding-left"
-			],
-			[
-				"pa",
-				"padding-right"
-			],
-			[
-				"req",
-				"require"
-			],
-			[
-				"f",
-				"font-size	styl"
-			],
-			[
-				"border-r",
-				"border-radius	styl"
-			],
-			[
-				"fon",
-				"font-weight	styl"
+				"padding-top	styl"
 			],
 			[
 				"pos",
 				"position	styl"
 			],
 			[
-				"re",
-				"require"
+				"op",
+				"opacity	styl"
 			],
 			[
-				"head",
-				"header"
+				"trans",
+				"transition	styl"
+			],
+			[
+				"ba",
+				"background-color	styl"
 			],
 			[
 				"te",
-				"template"
+				"text-decoration	styl"
+			],
+			[
+				"header--menu",
+				"header--menu-item"
+			],
+			[
+				"hi",
+				"hideQuest"
+			],
+			[
+				"da",
+				"data-js-tver"
+			],
+			[
+				"data",
+				"data-js-moscow"
+			],
+			[
+				"scr",
+				"scrolled"
+			],
+			[
+				"ani",
+				"animateScroll"
+			],
+			[
+				"border-b",
+				"border-bottom-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ro",
+				"robotoSlab"
+			],
+			[
+				"C",
+				"ContactsPage"
+			],
+			[
+				"ref",
+				"refabout"
+			],
+			[
+				"f",
+				"fdn	React: React.findDOMNode(…)"
+			],
+			[
+				"acti",
+				"activeEl"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"data-js-ref",
+				"data-js-refget"
+			],
+			[
+				"_",
+				"__active"
+			],
+			[
+				"PAD",
+				"padding-right"
+			],
+			[
+				"sc",
+				"scaleX()"
+			],
+			[
+				"sa",
+				"scaleX()"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"tr",
+				"translateZ()"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pAD",
+				"padding-left"
+			],
+			[
+				"tee",
+				"text-decoration"
+			],
+			[
+				"border-bott",
+				"border-bottom-width"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"step",
+				"stepNumSize"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"r",
+				"robotoSlab"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tetx",
+				"text-transform"
+			],
+			[
+				"p",
+				"ptSans"
+			],
+			[
+				"P",
+				"PTsans"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"hea",
+				"headerMenu"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"H",
+				"Header"
+			],
+			[
+				"scro",
+				"scrolltest"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"rem",
+				"rmEl1"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"rm",
+				"rmEl3"
+			],
+			[
+				"sco",
+				"scrolled"
+			],
+			[
+				"bak",
+				"background-color	styl"
+			],
+			[
+				"font-",
+				"font-size	styl"
+			],
+			[
+				"bo",
+				"bottom	styl"
+			],
+			[
+				"bor",
+				"border-top	styl"
+			],
+			[
+				"list",
+				"list-style	styl"
+			],
+			[
+				"extr",
+				"ExtractTextPlugin"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"click",
+				"clickFoot"
+			],
+			[
+				"ci",
+				"clickLogin"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"c",
+				"common"
+			],
+			[
+				"we",
+				"welcome"
+			],
+			[
+				"web",
+				"webpack"
+			],
+			[
+				"e",
+				"exports"
 			],
 			[
 				"de",
 				"development"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"li",
-				"link	Tag"
-			],
-			[
-				"w",
-				"width"
-			],
-			[
-				"add",
-				"addOne"
-			],
-			[
-				"song",
-				"SongList"
-			],
-			[
-				"clea",
-				"clearList"
-			],
-			[
-				"r",
-				"return"
-			],
-			[
-				"Lo",
-				"localStorage"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "header/header.jade",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header/header.styl",
+			"settings":
+			{
+				"buffer_size": 1065,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "content/content.jade",
 			"settings":
 			{
-				"buffer_size": 825,
-				"line_ending": "Windows"
+				"buffer_size": 947,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "content/content.styl",
 			"settings":
 			{
-				"buffer_size": 833,
-				"line_ending": "Windows"
+				"buffer_size": 1858,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "main.coffee",
 			"settings":
 			{
-				"buffer_size": 309,
+				"buffer_size": 393,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "scripts/app-view.coffee",
+			"file": "/D/skins/yesman/webpack.config.js",
 			"settings":
 			{
-				"buffer_size": 145,
+				"buffer_size": 2571,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "default.jade",
+			"settings":
+			{
+				"buffer_size": 390,
 				"line_ending": "Windows"
 			}
 		}
@@ -176,11 +472,15 @@
 				"Package Control: Install Package"
 			],
 			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
 				"Package Control: ins",
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
+				"Package Control: i",
 				"Package Control: Install Package"
 			]
 		],
@@ -188,7 +488,7 @@
 	},
 	"console":
 	{
-		"height": 126.0,
+		"height": 146.0,
 		"history":
 		[
 			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -203,85 +503,140 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/D/web/yesman/app",
-		"/D/web/yesman/app/content",
-		"/D/web/yesman/app/scripts"
-	],
 	"file_history":
 	[
-		"/D/web/yesman/app/scripts/model-home.coffee",
-		"/D/web/yesman/app/scripts/view-home.coffee",
-		"/D/web/yesman/webpack.config.js",
-		"/D/web/yesman/app/scripts/model.coffee",
-		"/D/web/yesman/dist/styles/tabs.css",
-		"/D/web/yesman/another/jquery-ui-1.11.4.custom/index.html",
-		"/D/web/yesman/package.json",
-		"/D/web/yesman/app/content/content.styl",
-		"/D/web/yesman/app/content/content.coffee",
-		"/D/web/yesman/app/content/content.jade",
-		"/D/web/yesman/app/default.jade",
-		"/C/Users/Andrey/Desktop/создание сайта/стажировка/sold&pepper/task8/solution/js/task8.js",
-		"/D/web/yesman/app/header/header.styl",
-		"/D/web/yesman/another/jquery-ui-1.11.4.custom/jquery-ui.css",
-		"/D/web/yesman/app/styles/tabs.css",
-		"/D/web/yesman/app/tabs.js",
-		"/D/web/yesman/another/jquery-ui-1.11.4.custom/jquery-ui.theme.css",
-		"/D/web/yesman/another/jquery-ui-1.11.4.custom/jquery-ui.js",
-		"/D/web/yesman/another/jquery-ui-1.11.4.custom/jquery-ui.theme.min.css",
-		"/D/web/yesman/app/header/header.coffee",
-		"/D/web/yesman/app/header/header.jade",
-		"/D/web/yesman/app/header/header.css",
-		"/D/web/yesman/dist/main.js",
-		"/D/web/app/index.js",
-		"/D/web/yesman/app/header/index.coffee",
-		"/D/web/yesman/dist/index.html",
-		"/D/web/yesman/app/main.js",
-		"/D/web/yesman/app/index.js",
-		"/D/web/yesman/app/div.jade",
-		"/D/web/webfull/package.json",
-		"/D/web/webfull/webpack.config.js",
-		"/D/web/webfull/div.jade",
-		"/D/web/webfull/index.js",
-		"/D/web/webpack.config.js",
-		"/D/web/webfull/app/index.js",
-		"/D/web/webfull/app/default.html",
-		"/D/web/webfull/default.jade",
-		"/D/web/webfull/test.html",
-		"/D/web/testfull/package.json",
-		"/D/web/testfull/div.jade",
-		"/D/web/testfull/index.js",
-		"/D/web/testfull/webpack.config.js",
-		"/D/web/app/div.jade",
-		"/D/web/app/index.css",
-		"/D/web/app/wel.coffee",
-		"/D/web/app/default.jade",
-		"/D/web/test/webpack.config.js",
-		"/D/web/test/index.css",
-		"/D/web/test/index.js",
-		"/D/web/test/package.json",
-		"/D/web/test/jj.jade",
-		"/D/web/test/index.html",
-		"/D/web/test/server.js",
-		"/D/web/another/webpack.config.js",
-		"/D/web/dist/indexJ.html",
-		"/D/web/app/wel.js",
-		"/D/web/app/index.html",
-		"/D/web/app/welcome.coffee",
-		"/D/web/dist/index.html",
-		"/D/web/index.js",
-		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/webapps/tryapp/app/index.jade",
-		"/C/webapps/tryapp/app/scripts/main.coffee",
-		"/C/webapps/tryapp/app/styles/main.scss",
-		"/C/webapps/tryapp/app/layouts/default.jade",
-		"/C/webapps/tryapp/app/default.jade"
+		"/D/skins/yesman/app/header/header.styl",
+		"/D/skins/yesman/app/header/header.coffee",
+		"/D/skins/yesman/app/content/content.coffee",
+		"/D/skins/yesman/dist/scripts/velocity.js",
+		"/D/skins/yesman/app/content/content.jade",
+		"/D/skins/yesman/app/scripts/app-view.coffee",
+		"/D/skins/yesman/app/main.coffee",
+		"/D/skins/yesman/app/content/content.styl",
+		"/D/skins/yesman/app/header/header.jade",
+		"/D/snp/yesman/app/contacts/contacts.coffee",
+		"/D/snp/doslovno-trainee/app/scripts/component/Questions/Questions.js",
+		"/D/snp/doslovno-trainee/app/scripts/page/Contacts/Contacts.js",
+		"/D/snp/doslovno-trainee/app/scripts/page/How/How.js",
+		"/D/snp/doslovno-trainee/app/scripts/page/Contacts/Contacts.css",
+		"/D/snp/doslovno-trainee/app/html/_base.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Layout/Layout.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Layout/Layout.css",
+		"/D/snp/doslovno-trainee/app/scripts/component/Map/Map.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Layout/Layout.js",
+		"/D/snp/doslovno-trainee/app/scripts/page/Contacts/Contacts.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Map/Map.jade",
+		"/D/snp/yesman/app/contacts/contacts.styl",
+		"/D/snp/yesman/app/contacts/main.jade",
+		"/C/Users/admin/Desktop/code.js",
+		"/D/snp/doslovno-trainee/app/scripts/page/How/How.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Questions/Questions.jade",
+		"/D/snp/doslovno-trainee/app/scripts/Router.js",
+		"/D/snp/doslovno-trainee/app/scripts/app.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/Header.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Questions/Questions.css",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.134/Comments.tmPreferences",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.625/Completion Rules.tmPreferences",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.647/Symbol List Group.tmPreferences",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.521/CSS.sublime-syntax",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.837/Symbol Index.tmPreferences",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.525/Symbol List.tmPreferences",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.546/Default.sublime-keymap",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.711/CSS.sublime-syntax",
+		"/D/Program Files/Sublime Text 3/Packages/CSS.sublime-package",
+		"/D/snp/yesman/app/contacts/footer.jade",
+		"/D/snp/doslovno-trainee/app/scripts/page/How/How.css",
+		"/D/snp/doslovno-trainee/webpack/_aliases.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Footer/Footer.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Footer/Footer.js",
+		"/C/Users/admin/AppData/Local/Temp/tmp5D26.tmp.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/Header.jade",
+		"/D/snp/yesman/app/how/how.coffee",
+		"/D/snp/yesman/app/how/how.styl",
+		"/D/snp/yesman/app/how.jade",
+		"/D/snp/yesman/dist/styles/fontHeader.css",
+		"/D/snp/yesman/app/how/header.styl",
+		"/D/snp/doslovno-trainee/app/scripts/packages/social/main.coffee",
+		"/D/snp/doslovno-trainee/app/scripts/localization/ru.js",
+		"/D/snp/doslovno-trainee/app/scripts/ServerAPI.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Footer/Footer.css",
+		"/D/snp/yesman/app/how/footer.jade",
+		"/D/snp/yesman/app/how/footer.styl",
+		"/D/snp/doslovno-trainee/app/scripts/component/AuthModal/AuthModal.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/Header.css",
+		"/D/snp/yesman/app/how/main.jade",
+		"/D/snp/yesman/app/contacts/footer.styl",
+		"/D/snp/doslovno-trainee/.stylelintrc",
+		"/C/Users/admin/Desktop/refresher/ref.css",
+		"/C/Users/admin/Desktop/refresher/refresher.html",
+		"/D/snp/doslovno-trainee/app/scripts/component/Button/package.json",
+		"/D/snp/doslovno-trainee/app/scripts/page/Index/Index.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Button/Button.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Button/Button.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Button/Button.css",
+		"/D/snp/doslovno/app/scripts/component/Layout/Layout.css",
+		"/D/snp/doslovno-trainee/app/scripts/page/_Base/Base.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/menu/menu.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/menu/menu.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/menu/menu.css",
+		"/C/Users/admin/Desktop/how add block.txt",
+		"/D/snp/doslovno-trainee/app/scripts/component/_Modal/Modal.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/menu/test.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/headerMenu/headerMenu.js",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/headerMenu/header-menu.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/header-menu/header-menu.css",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/header-menu/header-menu.jade",
+		"/D/snp/doslovno-trainee/app/scripts/component/Header/header-menu/header-menu.js",
+		"/D/snp/doslovno-trainee/app/scripts/page/Index/Index.jade",
+		"/D/snp/yesman/yesman-develop/app/main.coffee",
+		"/D/snp/doslovno-trainee/app/scripts/page/Index/Index.css",
+		"/D/snp/yesman/app/header/header.jade",
+		"/D/snp/yesman/app/header/header.styl",
+		"/D/snp/yesman/app/how/header.jade",
+		"/D/snp/doslovno-trainee/webpack/_config.js",
+		"/D/snp/doslovno-trainee/webpack/dev.js",
+		"/D/snp/doslovno-trainee/run-dev.js",
+		"/D/snp/yesman/webpack.config.js",
+		"/D/snp/doslovno-trainee/run-build.js",
+		"/D/snp/doslovno-trainee/package.json",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/snp/sp1/app/scripts/component/Layout/Layout.jade",
+		"/D/snp/doslovno-trainee/app/scripts/page/Error404/Error404.jade",
+		"/D/snp/doslovno/.npmignore",
+		"/D/snp/doslovno/.gitignore",
+		"/D/snp/doslovno-trainee/.npmignore",
+		"/D/snp/doslovno/.git/config",
+		"/C/Users/admin/Desktop/.stylelintrc",
+		"/D/snp/sp1/app/scripts/localization/ru.js",
+		"/D/snp/sp1/app/scripts/component/Layout/Layout.js",
+		"/D/snp/sp1/app/scripts/component/Layout/Layout.css",
+		"/D/snp/sp1/app/scripts/page/How/How.css",
+		"/D/snp/sp1/app/scripts/page/How/How.js",
+		"/D/snp/sp1/app/scripts/page/_Base/Base.js",
+		"/D/snp/sp1/app/scripts/_BaseView.js",
+		"/D/snp/sp1/app/scripts/page/How/How.jade",
+		"/D/snp/sp1/app/scripts/page/Index/Index.jade",
+		"/D/snp/sp1/app/scripts/page/Error404/Error404.jade",
+		"/D/snp/sp1/app/scripts/page/Error404/Error404.js",
+		"/D/snp/sp1/app/scripts/page/Error404/Error404.css",
+		"/D/snp/sp1/app/images/.gitkeep",
+		"/D/snp/sp1/app/html/auth_success.jade",
+		"/D/snp/sp1/app/html/index.jade",
+		"/D/snp/sp1/app/html/_base.jade",
+		"/D/snp/sp1/app/html/auth_fail.jade",
+		"/D/snp/sp1/app/files/.gitkeep",
+		"/D/snp/sp1/.npmignore",
+		"/D/snp/sp1/app/scripts/Router.js",
+		"/C/Users/admin/Desktop/snp/yesman/package.json",
+		"/D/snp/sp1/.stylelintrc",
+		"/D/snp/yesman/dist/how.js",
+		"/D/snp/yesman/app/how/how.jade"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -295,9 +650,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"anchor",
-			"ima",
-			"p"
+			"font-f",
+			"font-family",
+			"butt",
+			"border",
+			"mail",
+			"tag",
+			"logo-box",
+			"site-tag",
+			";\n",
+			".pic",
+			"back",
+			".pic",
+			".ui-state-active",
+			"image",
+			"space"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -320,19 +687,77 @@
 			[
 				{
 					"buffer": 0,
-					"file": "content/content.jade",
+					"file": "header/header.jade",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 825,
+						"buffer_size": 244,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								447,
-								447
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "header/header.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/content.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								551
 							]
 						],
 						"settings":
@@ -345,24 +770,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 3,
 					"file": "content/content.styl",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 833,
+						"buffer_size": 1858,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								742,
-								742
+								1627,
+								1627
 							]
 						],
 						"settings":
@@ -375,24 +800,24 @@
 						"translation.y": 594.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
 					"file": "main.coffee",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 309,
+						"buffer_size": 393,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								306,
-								306
+								169,
+								169
 							]
 						],
 						"settings":
@@ -403,35 +828,67 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "scripts/app-view.coffee",
+					"buffer": 5,
+					"file": "/D/skins/yesman/webpack.config.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 145,
+						"buffer_size": 2571,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								144,
-								144
+								392,
+								392
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "default.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -439,7 +896,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -476,7 +933,7 @@
 	"project": "yesman.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -485,17 +942,57 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"bas",
+				"app\\html\\_base.jade"
+			],
+			[
+				"cont",
+				"app\\scripts\\page\\Contacts\\Contacts.js"
+			],
+			[
+				"qu",
+				"app\\scripts\\component\\Questions\\Questions.js"
+			],
+			[
+				"la",
+				"app\\scripts\\component\\Layout\\Layout.js"
+			],
+			[
+				"ro",
+				"app\\scripts\\Router.js"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"rou",
+				"app\\scripts\\Router.js"
+			],
+			[
+				"index.cs",
+				"app\\scripts\\page\\Index\\Index.css"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\Users\\admin\\Desktop\\doslovno.sublime-project"
+			],
+			[
+				"do",
+				"C:\\Users\\admin\\Desktop\\doslovno.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -514,7 +1011,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 219.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

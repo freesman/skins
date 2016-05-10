@@ -1,49 +1,108 @@
-#content
+lobster = 'Lobster', cursive;
+comfortaa = 'Comfortaa', cursive;
+marck = 'Marck Script', cursive;
+ptSans = 'PT Sans', sans-serif;
+
+ramkaV = -21px
+ramkaH = -18px
+
+.title
+  min-width 1000px
+  max-width 1200px
   margin 0 auto
-  width 1000px
-  border thin solid black
+  position relative
+  margin-top 30px
+  height 560px
+  &--wolf
+    position absolute
+    left 0
+    height 560px
+    width 820px
+    background-image url('../img/wolf.png')
+    background-repeat no-repeat
+  &--text
+    position absolute
+    right 0
+    font-family: marck
+    font-size 30px
 
-.homes, .bath, .photos
-  height 210px
-  width 200px
-  margin-top 15px
-  margin-left 84px
-  display inline-block
-  cursor pointer
-  vertical-align top
-  border thin solid black
-  &:hover
-    border thin solid red
-  
-body 
-  background-color #DDDDDD
-  
-.main
-  height 500px
-  width 900px
-  margin-top 20px
-  margin-left 20px
-  border thin solid black
-  
-.main p, .main h2, .main img
-  margin-left 10px
+.dummy
+  margin-top 40px
+  &--title
+    width 250px
+    margin 0 auto
+    font-family lobster
+    font-size 30px
+  &--order
+    width 430px
+    margin 0 auto
+    font-family comfortaa
+    margin-top 10px
+  &--head
+    width 180px
+    margin 0 auto
+    margin-top 20px
+    font-family lobster
+    font-size 26px
+  &--price
+    font-family comfortaa
+    font-size 26px
+    width 110px
+    margin 0 auto
+    margin-top 10px
+  &--description
+    font-family comfortaa
+    width 490px
+    margin 0 auto
+    margin-top 10px
 
+.gallery
+  margin-top 40px
+  margin-left 40px
+  margin-bottom 40px
+  &--photo
+    width 200px
+    height 200px
+    background-color gray
+    display inline-block
+    margin-right 60px
+    position relative
+    cursor pointer
+  &--photo:hover
+    .gallery--ramka
+      background-image url('../img/ramka-active.png')
+  &--ramka
+    position absolute
+    width 76px
+    height 76px
+    background-image url('../img/ramka.png')
+      
 
-.ui-tabs .ui-tabs-nav li
-  margin-left 30px
-.ui-tabs .ui-tabs-nav .ui-tabs-anchor
-  background-color rgba(116, 178, 226, 0.65)
-  padding-right 40px
-  padding-left 40px
-  
-#home-1
-  background url('img/dom-eva.jpg') 0px 0px no-repeat
-  background-size 200px 160px
-
-.homes h3
-  margin-left 35px
-  margin-bottom 0px
-  margin-top 162px
- 
-.homes span
-  margin-left 35px
+//modificators
+.title-top1
+  top 80px
+  right 40px
+.title-top2
+  top 120px
+.title-top3
+  top 160px
+.title-top4
+  top 200px
+.rub
+  font-family ptSans
+//mods-ramka
+.bot-left
+  bottom ramkaV
+  left ramkaH
+.bot-right
+  bottom ramkaV
+  right ramkaH
+  transform scale(-1,1)
+.top-left
+  top ramkaV
+  left ramkaH
+  transform scale(1,-1)
+.top-right
+  top ramkaV
+  right ramkaH
+  transform scale(-1,-1)
