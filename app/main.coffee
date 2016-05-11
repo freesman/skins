@@ -1,5 +1,6 @@
 Backbone = require('backbone')
 Epoxy = require('backbone.epoxy')
+$= jQuery.noConflict()
 
 header = require('./header/header')
 $('header').append(header)
@@ -15,3 +16,16 @@ hideLogo = ->
   else
     logo.fadeIn('1000')
 $(window).resize(hideLogo)
+
+thumbsFunction = ->
+  $(".fancybox-thumb").fancybox(
+    prevEffect : 'none'
+    nextEffect  : 'none'
+    helpers :
+      title :
+        type: 'outside'
+      thumbs :
+        width : 50
+        height : 50
+  )
+$(document).ready(thumbsFunction);
