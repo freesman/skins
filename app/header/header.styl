@@ -2,18 +2,23 @@ lobster = 'Lobster', cursive;
 comfortaa = 'Comfortaa', cursive;
 .header
   width inherit
-  height 120px
   border-bottom 8px solid black
-  padding-top 1px
-  position relative
-  min-width 930px
+  &--main-block
+    height 120px
+    padding-top 1px
+    position relative
+    min-width 930px
+    max-width 1400px
+    margin 0 auto
   &--logo
     position absolute
-    left 10px
-    top 10px
+    left 30px
+    top 20px
     background-image url('../img/logo.png')
     height 103px;
     width 200px;
+    background-size 150px
+    background-repeat no-repeat
   &--menu
     margin 0 auto
     margin-top 40px

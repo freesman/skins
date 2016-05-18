@@ -8,7 +8,7 @@ ramkaH = -18px
 
 .title
   min-width 1100px
-  max-width 1150px
+  max-width 1200px
   margin 0 auto
   position relative
   margin-top 30px
@@ -28,15 +28,34 @@ ramkaH = -18px
 
 .why
   width 1000px
-  border 1px solid black
   margin 0 auto
-  margin-top 40px
+  margin-top 60px
   &--text
     font-family marck
     font-size 30px
+  &--reason
+    display inline-block
+    vertical-align top
+    margin-right 20px
+    margin-top 50px
+    width 180px
+    font-family comfortaa
+    &--image // 447FC7
+      height 80px
+      width 80px
+      background-size 80px
+      margin 0 auto
+    &--head
+      font-size 20px
+      text-align center
+      margin-top 10px
+    &--body
+      font-size 13px
+      text-align center
+      margin-top 6px
 
 .product
-  margin-top 40px
+  margin-top 80px
   &--title
     margin 0 auto
     font-family lobster
@@ -51,7 +70,7 @@ ramkaH = -18px
     margin-top 10px
   &--head
     margin 0 auto
-    margin-top 20px
+    margin-top 60px
     font-family lobster
     font-size 26px
   &--price
@@ -65,17 +84,18 @@ ramkaH = -18px
     margin-top 10px
 
 .gallery
+  min-width 800px
+  max-width 980px
+  height 200px
   margin 0 auto
   margin-top 70px
-  margin-bottom 40px
+  margin-bottom 100px
+  position relative
   &--photo
     width 200px
     height 200px
-    background-color gray
-    display inline-block
-    margin-right 60px
-    position relative
     cursor pointer
+    position absolute
   &--photo:hover
     .gallery--ramka
       background-image url('../img/ramka-active.png')
@@ -87,6 +107,7 @@ ramkaH = -18px
       
 
 //modificators
+//mods-title
 .title-top1
   top 80px
   right 40px
@@ -104,6 +125,17 @@ ramkaH = -18px
   right 10px
 .rub
   font-family ptSans
+//mods-why
+.img1
+  background-image url('../img/people3.svg')
+.img2
+  background-image url('../img/like.svg')
+.img3
+  background-image url('../img/shield-b.svg')
+.img4
+  background-image url('../img/money.svg')
+.img5
+  background-image url('../img/arrow.svg')
 //mods-ramka
 .bot-left
   bottom ramkaV
@@ -122,14 +154,25 @@ ramkaH = -18px
   transform scale(-1,-1)
 //product mods
 .prod-title-w
-  width 300px
-  padding-left 50px
-.prod-head-w
+  width 500px
+  padding-left 250px
+.head-bear-b1-w
+  width 180px
+.head-bear-s1-w
+  width 230px
+.head-wolf-g1-w
   width 180px
 .prod-price-w
   width 110px
-.prod-descr-w
+.descr-bear-b1-w
   width 490px
+.descr-bear-s1-w
+  width 520px
 //gallery mods
-.gall-w
-  width 780px
+.gall-left-pos
+  left 0
+.gall-center-pos
+  left 50%
+  margin-left -100px
+.gall-right-pos
+  right 0

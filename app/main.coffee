@@ -20,14 +20,23 @@ AppView = Backbone.View.extend(
 appView = new AppView
 
 thumbsFunction = ->
-  $(".fancybox-thumb").fancybox(
-    prevEffect : 'none'
-    nextEffect  : 'none'
-    helpers :
-      title :
-        type: 'outside'
-      thumbs :
-        width : 50
-        height : 50
+  openThumb('.fancybox-bear-b1');
+  openThumb('.fancybox-bear-s1');
+  openThumb('.fancybox-bear-s2');
+  openThumb('.fancybox-bear-s3');
+  openThumb('.fancybox-bear-s4');
+  openThumb('.fancybox-wolf-g1');
+
+openThumb = (myClass) ->
+  $(myClass).fancybox(
+      prevEffect : 'none'
+      nextEffect  : 'none'
+      helpers :
+        title :
+          type: 'outside'
+        thumbs :
+          width : 50
+          height : 50
   )
+
 $(document).ready(thumbsFunction);
